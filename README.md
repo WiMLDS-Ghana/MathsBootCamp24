@@ -1,7 +1,7 @@
 # Maths for Machine Learning BootCamp 2024
 This repo will contain all the relevant materials for the WiMLDS Accra Maiden Maths Bootcamp with AIMS Ghana.
 
-![Promotional Flyer]("https://github.com/WiMLDS-Ghana/MathsBootCamp24/blob/main/flyer.jpeg")
+![Promotional Flyer](https://raw.githubusercontent.com/WiMLDS-Ghana/MathsBootCamp24/main/flyer.jpeg)
 
 
 # Introduction
