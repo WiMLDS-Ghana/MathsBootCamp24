@@ -2,7 +2,7 @@
 This repo will contain all the relevant materials for the WiMLDS Accra Maiden Maths Bootcamp with AIMS Ghana.
 
 ![Promotional Flyer](https://raw.githubusercontent.com/WiMLDS-Ghana/MathsBootCamp24/main/flyer.jpeg)
-<img src="https://raw.githubusercontent.com/WiMLDS-Ghana/MathsBootCamp24/main/flyer.jpeg" width="100" height="100">
+<img src="https://raw.githubusercontent.com/WiMLDS-Ghana/MathsBootCamp24/main/flyer.jpeg" width="500" height="500">
 
 
 
