@@ -51,3 +51,5 @@ The BootCamp is structured to include two-hour session for 4 consecutive Sundays
 | Week 4 | Slides | Code |
 |----------|----------|----------|
 |Session  1 | [Title](URL "Optional Title") | [Collab](URL "Optional Title") |
+
+# Resources
