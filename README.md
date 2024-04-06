@@ -7,11 +7,10 @@ This repo will contain all the relevant materials for the WiMLDS Accra Maiden Ma
 
 # Curriculum
 1. Introduction to Linear Algebra
-
-      a. Vectors & vector spaces
-      b. Matrix operations
-      c. Eigenvalues & Eigenvectors
-      d. Use Case in PCA
+      -  Vectors & vector spaces
+      -  Matrix operations
+      -  Eigenvalues & Eigenvectors
+      -  Use Case in PCA
    
 1. First list item
    - First nested list item
