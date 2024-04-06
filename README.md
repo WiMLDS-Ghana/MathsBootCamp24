@@ -13,16 +13,18 @@ This repo will contain all the relevant materials for the WiMLDS Accra Maiden Ma
 # Bootcamp Materials
 | Week 1 | Slides | Code |
 |----------|----------|----------|
-| Row 1 Col 1 | [Title](URL "Optional Title") | [Collab](URL "Optional Title") |
+| Session 1 | [Title](URL "Optional Title") | [Collab](URL "Optional Title") |
 
 
 | Week 2 | Slides | Code |
 |----------|----------|----------|
-| Row 1 Col 1 | [Title](URL "Optional Title") | [Collab](URL "Optional Title") |
+| Session 2 | [Title](URL "Optional Title") | [Collab](URL "Optional Title") |
+
 
 | Week 3 | Slides | Code |
 |----------|----------|----------|
 | Row 1 Col 1 | [Title](URL "Optional Title") | [Collab](URL "Optional Title") |
+
 
 | Week 4 | Slides | Code |
 |----------|----------|----------|
