@@ -6,11 +6,22 @@ This repo will contain all the relevant materials for the WiMLDS Accra Maiden Ma
 
 
 # Curriculum
-1. Item 1
-2. Item 2
-3. Item 3
-   1. Item 3a
-   2. Item 3b
+1. Introduction to Linear Algebra
+      a.Vectors & vector spaces
+      b.Matrix operations
+      c.Eigenvalues & Eigenvectors
+      d. Use Case in PCA
+
+2. Introduction to Probability Theory
+      a.Discrete & Continuous Probability Distributions
+      b.Measures of central tendencies
+      c.Inferential Statistics(Hypothesis testing
+      d. Use cases in descriptive statistics and interpretations of different distribution types
+
+3. Introduction to Optimization
+      a. Cost functions
+      b. Gradient Descent
+      c. Use case of gradient descent in optimizing a function
 
 
 # Bootcamp Materials
