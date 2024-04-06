@@ -19,7 +19,7 @@ The BootCamp is structured to include two-hour session for 4 consecutive Sundays
 2. Introduction to Probability Theory
      - Discrete & Continuous Probability Distributions
      - Measures of central tendencies
-     - Inferential Statistics(Hypothesis testing
+     - Inferential Statistics(Hypothesis testing)
      -  Use cases in descriptive statistics and interpretations of different distribution types
 
 3. Introduction to Optimization
