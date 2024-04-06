@@ -53,3 +53,10 @@ The BootCamp is structured to include two-hour session for 4 consecutive Sundays
 |Session  1 | [Title](URL "Optional Title") | [Collab](URL "Optional Title") |
 
 # Resources
+ - Machine Learning Books
+    - [ Book 1](URL "Optional Title")
+    - [ Book 2](URL "Optional Title")
+ - Repositories
+    -  [ Book 1](URL "Optional Title")
+    - [ Book 2](URL "Optional Title")
+- Others
