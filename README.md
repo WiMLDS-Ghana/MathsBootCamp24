@@ -36,20 +36,8 @@ The BootCamp is structured to include two-hour session for 4 consecutive Sundays
 | Week 1 | Slides | Code | Recording |
 |----------|----------|----------| ----------|
 | Session 1 | [Title](URL "Optional Title") | [Collab](URL "Optional Title") | [Recording Link](URL "Optional Title")|
-
-
-| Week 2 | Slides | Code |  Recording |
-|----------|----------|----------|----------|
 | Session 1 | [Title](URL "Optional Title") | [Collab](URL "Optional Title") | [Recording Link](URL "Optional Title")|
-
-
-| Week 3 | Slides | Code |  Recording |
-|----------|----------|----------| ---------|
 | Session 1 | [Title](URL "Optional Title") | [Collab](URL "Optional Title") | [Recording Link](URL "Optional Title")|
-
-
-| Week 4 | Slides | Code |  Recording |
-|----------|----------|----------| ----------|
 |Session  1 | [Title](URL "Optional Title") | [Collab](URL "Optional Title") | [Recording Link](URL "Optional Title")|
 
 # Resources
