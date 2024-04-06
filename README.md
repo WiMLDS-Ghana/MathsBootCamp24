@@ -1,6 +1,9 @@
 # Maths for Machine Learning BootCamp 2024
 This repo will contain all the relevant materials for the WiMLDS Accra Maiden Maths Bootcamp with AIMS Ghana.
 
+![Alt text](URL_to_image "Optional title")
+
+
 # Introduction
 
 Welcome to The Mathematics for Machine Learning BootCamp, a dynamic collaboration between [Accra Women in Machine Learning & Data Science (WiMLDS)](http://wimlds.org/about-the-accra-team/) and the [African Institute of Mathematical Sciences (AIMS)](https://aims.edu.gh).  Our focus is on current university students, undergraduates or graduates aspiring to deepen their grasp of mathematics in the context of machine learning, this program promises an enriching learning experience.
