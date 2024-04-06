@@ -33,12 +33,12 @@ The BootCamp is structured to include two-hour session for 4 consecutive Sundays
 
 
 # Bootcamp Materials
-| Week 1 | Slides | Code | Recording |
+| Week  | Slides | Code | Recording |
 |----------|----------|----------| ----------|
-| Session 1 | [Title](URL "Optional Title") | [Collab](URL "Optional Title") | [Recording Link](URL "Optional Title")|
-| Session 1 | [Title](URL "Optional Title") | [Collab](URL "Optional Title") | [Recording Link](URL "Optional Title")|
-| Session 1 | [Title](URL "Optional Title") | [Collab](URL "Optional Title") | [Recording Link](URL "Optional Title")|
-|Session  1 | [Title](URL "Optional Title") | [Collab](URL "Optional Title") | [Recording Link](URL "Optional Title")|
+| Week 1 | [Title](URL "Optional Title") | [Collab](URL "Optional Title") | [Recording Link](URL "Optional Title")|
+| Week 2 | [Title](URL "Optional Title") | [Collab](URL "Optional Title") | [Recording Link](URL "Optional Title")|
+| Week 3 | [Title](URL "Optional Title") | [Collab](URL "Optional Title") | [Recording Link](URL "Optional Title")|
+| Week 4 | [Title](URL "Optional Title") | [Collab](URL "Optional Title") | [Recording Link](URL "Optional Title")|
 
 # Resources
  - Machine Learning Books
