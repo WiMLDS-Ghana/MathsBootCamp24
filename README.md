@@ -7,6 +7,10 @@ Welcome to The Mathematics for Machine Learning BootCamp, a dynamic collaboratio
 
 The BootCamp is structured to include two-hour session for 4 consecutive Sundays (i.e 2 hours every Sunday) focused on essential Machine Learning topics crucial for foundational understanding. To enhance learning, the program integrates practical applications, providing students with an opportunity to explore real-world implementations of the curriculum. Furthermore, the course includes assignments to evaluate students' comprehension and incorporates a capstone project, which serves as a valuable addition to their career portfolios. 
 
+# Preliminary Materials
+
+- [Introduction To Python](URL "Optional Title")
+- [Introduction To Collabs](URL "Optional Title")
 
 
 # Curriculum
