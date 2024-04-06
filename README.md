@@ -12,7 +12,10 @@ This repo will contain all the relevant materials for the WiMLDS Accra Maiden Ma
       b. Matrix operations
       c. Eigenvalues & Eigenvectors
       d. Use Case in PCA
-
+   
+1. First list item
+   - First nested list item
+     - Second nested list item
 
    
 3. Introduction to Probability Theory
