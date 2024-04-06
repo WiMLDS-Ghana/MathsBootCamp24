@@ -36,14 +36,14 @@ The BootCamp is structured to include two-hour session for 4 consecutive Sundays
 
 | Week 2 | Slides | Code |
 |----------|----------|----------|
-| Session 2 | [Title](URL "Optional Title") | [Collab](URL "Optional Title") |
+| Session 1 | [Title](URL "Optional Title") | [Collab](URL "Optional Title") |
 
 
 | Week 3 | Slides | Code |
 |----------|----------|----------|
-| Row 1 Col 1 | [Title](URL "Optional Title") | [Collab](URL "Optional Title") |
+| Session 1 | [Title](URL "Optional Title") | [Collab](URL "Optional Title") |
 
 
 | Week 4 | Slides | Code |
 |----------|----------|----------|
-| Row 1 Col 1 | [Title](URL "Optional Title") | [Collab](URL "Optional Title") |
+|Session  1 | [Title](URL "Optional Title") | [Collab](URL "Optional Title") |
