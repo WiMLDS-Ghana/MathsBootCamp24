@@ -12,21 +12,16 @@ This repo will contain all the relevant materials for the WiMLDS Accra Maiden Ma
       -  Eigenvalues & Eigenvectors
       -  Use Case in PCA
    
-1. First list item
-   - First nested list item
-     - Second nested list item
+2. Introduction to Probability Theory
+     - Discrete & Continuous Probability Distributions
+     - Measures of central tendencies
+     - Inferential Statistics(Hypothesis testing
+     -  Use cases in descriptive statistics and interpretations of different distribution types
 
-   
-3. Introduction to Probability Theory
-      a.Discrete & Continuous Probability Distributions
-      b.Measures of central tendencies
-      c.Inferential Statistics(Hypothesis testing
-      d. Use cases in descriptive statistics and interpretations of different distribution types
-
-4. Introduction to Optimization
-      a. Cost functions
-      b. Gradient Descent
-      c. Use case of gradient descent in optimizing a function
+3. Introduction to Optimization
+    - Cost functions
+    - Gradient Descent
+    - Use case of gradient descent in optimizing a function
 
 
 # Bootcamp Materials
