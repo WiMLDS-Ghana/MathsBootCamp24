@@ -13,8 +13,8 @@ The BootCamp is structured to include two-hour session for 4 consecutive Sundays
 
 # Preliminary Materials
 
-- [Introduction To Python](URL "Optional Title")
-- [Introduction To Collabs](URL "Optional Title")
+- [Introduction To Python](https://github.com/Emmanuel-Afrifa/MathsBootCamp24/blob/main/introduction_to_python.ipynb)
+- [Introduction To Jupyter Notebooks (Specifically, Google Colab)](https://github.com/Emmanuel-Afrifa/MathsBootCamp24/blob/main/intro_to_jupyter_notebook.ipynb)
 
 
 # Curriculum
@@ -35,20 +35,26 @@ The BootCamp is structured to include two-hour session for 4 consecutive Sundays
     - Gradient Descent
     - Use case of gradient descent in optimizing a function
 
+4. Introduction to Machine Learning
+    - Concept of Machine Learning and Types
+    - Machine Learning Workflow
+    - Linear Regression Models
+    - Logistic Regression Models
+    
+
 
 # Bootcamp Materials
 | Week  | Slides | Code | Recording |
 |----------|----------|----------| ----------|
-| Week 1 | [Title](URL "Optional Title") | [Collab](URL "Optional Title") | [Recording Link](URL "Optional Title")|
-| Week 2 | [Title](URL "Optional Title") | [Collab](URL "Optional Title") | [Recording Link](URL "Optional Title")|
-| Week 3 | [Title](URL "Optional Title") | [Collab](URL "Optional Title") | [Recording Link](URL "Optional Title")|
-| Week 4 | [Title](URL "Optional Title") | [Collab](URL "Optional Title") | [Recording Link](URL "Optional Title")|
+| Week 1 | [Introduction to Linear Algebar](https://github.com/Emmanuel-Afrifa/MathsBootCamp24/blob/main/Week_1_Introduction_To_Linear_Algebra.pdf "link to pdf file") | [Collab](URL "Optional Title") | [Recording Link](URL "Optional Title")|
+| Week 2 | [Introduction to Probability Theory](https://github.com/Emmanuel-Afrifa/MathsBootCamp24/blob/main/Week_2_Introduction_To_Probability_Theory.pdf "link to pdf file") | [Collab](URL "Optional Title") | [Recording Link](URL "Optional Title")|
+| Week 3 | [Introduction to Optimization](https://github.com/Emmanuel-Afrifa/MathsBootCamp24/blob/main/Week_3_Introduction_to_Optimization.pdf "Optional Title") | [Collab](URL "link to pdf file") | [Recording Link](URL "Optional Title")|
+| Week 4 | [Introduction to Machine Learning](https://github.com/Emmanuel-Afrifa/MathsBootCamp24/blob/main/Week_4_Introduction_To_Machine_Learning.pdf "link to pdf file") | [Collab](URL "Optional Title") | [Recording Link](URL "Optional Title")|
 
 # Resources
  - Machine Learning Books
-    - [ Book 1](URL "Optional Title")
-    - [ Book 2](URL "Optional Title")
- - Repositories
-    -  [ Book 1](URL "Optional Title")
-    - [ Book 2](URL "Optional Title")
-- Others
+    - [The hundred-page machine learning book by Burkov, A. (2019).](https://order-papers.com/sites/default/files/tmp/webform/order_download/pdf-the-hundred-page-machine-learning-book-andriy-burkov-pdf-download-free-book-d835289.pdf)
+    - [Introduction to machine learning with Python: a guide for data scientists by Müller, A. C., & Guido, S. (2016)](https://smartnet.niua.org/sites/default/files/webform/ai-strategy/pdf-introduction-to-machine-learning-with-python-a-guide-for-data-sc-andreas-c-mller-sarah-guido-pdf-download-free-book-aa67cdb.pdf)
+    - [ Data science from scratch: first principles with python by Grus, J. (2019).](http://www.ir.juit.ac.in:8080/jspui/bitstream/123456789/5371/1/Data%20Science%20from%20Scratch%20First%20Principles%20with%20Python%20by%20Joel%20Grus.pdf)
+    - [Hands-on machine learning with Scikit-Learn, Keras, and TensorFlow by Géron, A. (2022).](https://www.stembook.org/sites/default/files/scf_members_attachment/pdf-hands-on-machine-learning-with-scikit-learn-keras-and-tensorflo-aurlien-gron-pdf-download-free-book-e25751f.pdf)
+
