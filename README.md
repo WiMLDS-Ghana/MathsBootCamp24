@@ -24,11 +24,12 @@ The BootCamp is structured to include two-hour session for 4 consecutive Sundays
       -  Eigenvalues & Eigenvectors
       -  Use Case in PCA
    
-2. Introduction to Probability Theory
+2. Introduction to Statistics and Probability Theory
      - Discrete & Continuous Probability Distributions
      - Measures of central tendencies
      - Inferential Statistics(Hypothesis testing)
-     -  Use cases in descriptive statistics and interpretations of different distribution types
+     - Use cases in descriptive statistics and interpretations of different distribution types
+     - Overview of Exploratory Data Analysis (EDA)
 
 3. Introduction to Optimization
     - Cost functions
