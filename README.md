@@ -25,8 +25,8 @@ The BootCamp is structured to include two-hour session for 4 consecutive Sundays
       -  Use Case in PCA
    
 2. Introduction to Statistics and Probability Theory
-     - Discrete & Continuous Probability Distributions
      - Measures of central tendencies
+     - Discrete & Continuous Probability Distributions
      - Inferential Statistics(Hypothesis testing)
      - Use cases in descriptive statistics and interpretations of different distribution types
      - Overview of Exploratory Data Analysis (EDA)
@@ -47,10 +47,10 @@ The BootCamp is structured to include two-hour session for 4 consecutive Sundays
 # Bootcamp Materials
 | Week  | Slides | Code | Recording |
 |----------|----------|----------| ----------|
-| Week 1 | [Introduction to Linear Algebar](https://github.com/Emmanuel-Afrifa/MathsBootCamp24/blob/main/Week_1_Introduction_To_Linear_Algebra.pdf "link to pdf file") | [Collab](URL "Optional Title") | [Recording Link](URL "Optional Title")|
-| Week 2 | [Introduction to Probability Theory](https://github.com/Emmanuel-Afrifa/MathsBootCamp24/blob/main/Week_2_Introduction_To_Probability_Theory.pdf "link to pdf file") | [Collab](URL "Optional Title") | [Recording Link](URL "Optional Title")|
-| Week 3 | [Introduction to Optimization](https://github.com/Emmanuel-Afrifa/MathsBootCamp24/blob/main/Week_3_Introduction_to_Optimization.pdf "Optional Title") | [Collab](URL "link to pdf file") | [Recording Link](URL "Optional Title")|
-| Week 4 | [Introduction to Machine Learning](https://github.com/Emmanuel-Afrifa/MathsBootCamp24/blob/main/Week_4_Introduction_To_Machine_Learning.pdf "link to pdf file") | [Collab](URL "Optional Title") | [Recording Link](URL "Optional Title")|
+| Week 1 | [Introduction to Linear Algebra](https://github.com/Emmanuel-Afrifa/MathsBootCamp24/blob/main/Week_1_Introduction_To_Linear_Algebra.pdf "link to pdf file") | [Colab notebook for week 1](https://github.com/Emmanuel-Afrifa/MathsBootCamp24/blob/main/Python_codes/Week_1_python_codes_linear_algebra.ipynb) | [Recording Link](URL "Optional Title")|
+| Week 2 | [Introduction to Probability Theory](https://github.com/Emmanuel-Afrifa/MathsBootCamp24/blob/main/Week_2_Introduction_To_Probability_Theory.pdf "link to pdf file") | [Colab notebook for week 2](https://github.com/Emmanuel-Afrifa/MathsBootCamp24/blob/main/Python_codes/Week_2_python_codes_probability_and_statistics.ipynb) | [Recording Link](URL "Optional Title")|
+| Week 3 | [Introduction to Optimization](https://github.com/Emmanuel-Afrifa/MathsBootCamp24/blob/main/Week_3_Introduction_to_Optimization.pdf "Optional Title") | [Colab notebook for week 3](https://github.com/Emmanuel-Afrifa/MathsBootCamp24/blob/main/Python_codes/Week_3_python_codes_optimization.ipynb) | [Recording Link](URL "Optional Title")|
+| Week 4 | [Introduction to Machine Learning](https://github.com/Emmanuel-Afrifa/MathsBootCamp24/blob/main/Week_4_Introduction_To_Machine_Learning.pdf "link to pdf file") | [Colab notebook for week 4](https://github.com/Emmanuel-Afrifa/MathsBootCamp24/blob/main/Python_codes/Week_4_python_codes_Linear_Regression_Logistic_Regression.ipynb) | [Recording Link](URL "Optional Title")|
 
 # Resources
  - Machine Learning Books
