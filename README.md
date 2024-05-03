@@ -13,8 +13,8 @@ The BootCamp is structured to include two-hour session for 4 consecutive Sundays
 
 # Preliminary Materials
 
-- [Introduction To Python](https://github.com/Emmanuel-Afrifa/MathsBootCamp24/blob/main/introduction_to_python.ipynb)
-- [Introduction To Jupyter Notebooks (Specifically, Google Colab)](https://github.com/Emmanuel-Afrifa/MathsBootCamp24/blob/main/intro_to_jupyter_notebook.ipynb)
+- [Introduction To Python](https://github.com/WiMLDS-Ghana/MathsBootCamp24/blob/main/Python_codes/introduction_to_python.ipynb)
+- [Introduction To Jupyter Notebooks (Specifically, Google Colab)](https://github.com/WiMLDS-Ghana/MathsBootCamp24/blob/main/Python_codes/intro_to_jupyter_notebook.ipynb)
 
 
 # Curriculum
