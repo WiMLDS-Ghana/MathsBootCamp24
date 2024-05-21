@@ -52,6 +52,13 @@ The BootCamp is structured to include two-hour session for 4 consecutive Sundays
 | Week 3 | [Introduction to Optimization](https://github.com/WiMLDS-Ghana/MathsBootCamp24/blob/main/slides/Week3_WiMLDS_Introduction_to_Optimization.pdf "Optional Title") | [Colab notebook for week 3](https://github.com/WiMLDS-Ghana/MathsBootCamp24/blob/main/Python_codes/Week_3_python_codes_optimization.ipynb) | [Recording Link](URL "Optional Title")|
 | Week 4 | [Introduction to Machine Learning](https://github.com/WiMLDS-Ghana/MathsBootCamp24/blob/main/slides/Week_4_WiMLDS_Introduction_To_Machine_Learning.pdf "link to pdf file") | [Colab notebook for week 4](https://github.com/WiMLDS-Ghana/MathsBootCamp24/blob/main/Python_codes/Week_4_python_codes_Linear_Regression_Logistic_Regression.ipynb) | [Recording Link](URL "Optional Title")|
 
+#Assignment Solutions
+* Week 1
+* Week 2
+* Week 3
+* Week 4
+
+
 # Capstone Project
 
 
