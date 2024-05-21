@@ -53,7 +53,7 @@ The BootCamp is structured to include two-hour session for 4 consecutive Sundays
 | Week 4 | [Introduction to Machine Learning](https://github.com/WiMLDS-Ghana/MathsBootCamp24/blob/main/slides/Week_4_WiMLDS_Introduction_To_Machine_Learning.pdf "link to pdf file") | [Colab notebook for week 4](https://github.com/WiMLDS-Ghana/MathsBootCamp24/blob/main/Python_codes/Week_4_python_codes_Linear_Regression_Logistic_Regression.ipynb) | [Recording Link](URL "Optional Title")|
 
 # Assignment Solutions
-* Week 1
+* Week 1 | [Colab Notebook](https://github.com/WiMLDS-Ghana/MathsBootCamp24/blob/main/Assignment_solutions/Week_1_assignment_solutions/Week%201%20Assignment_Solution.ipynb, "Colab Notebook") | [Pdf](https://github.com/WiMLDS-Ghana/MathsBootCamp24/blob/main/Assignment_solutions/Week_1_assignment_solutions/Week_1_Assignment_Solution.pdf)
 * Week 2
 * Week 3
 * Week 4
