@@ -53,10 +53,10 @@ The BootCamp is structured to include two-hour session for 4 consecutive Sundays
 | Week 4 | [Introduction to Machine Learning](https://github.com/WiMLDS-Ghana/MathsBootCamp24/blob/main/slides/Week_4_WiMLDS_Introduction_To_Machine_Learning.pdf "link to pdf file") | [Colab notebook for week 4](https://github.com/WiMLDS-Ghana/MathsBootCamp24/blob/main/Python_codes/Week_4_python_codes_Linear_Regression_Logistic_Regression.ipynb) | [Recording Link](URL "Optional Title")|
 
 # Assignment Solutions
-* Week 1 | [Colab Notebook](https://github.com/WiMLDS-Ghana/MathsBootCamp24/blob/main/Assignment_solutions/Week_1_assignment_solutions/Week%201%20Assignment_Solution.ipynb) | [Pdf](https://github.com/WiMLDS-Ghana/MathsBootCamp24/blob/main/Assignment_solutions/Week_1_assignment_solutions/Week_1_Assignment_Solution.pdf)
-* Week 2
-* Week 3
-* Week 4
+* Week 1 | [Colab Notebook](https://github.com/WiMLDS-Ghana/MathsBootCamp24/blob/main/Assignment_solutions/Week_1_assignment_solutions/Week%201%20Assignment_Solution.ipynb) | [PDF](https://github.com/WiMLDS-Ghana/MathsBootCamp24/blob/main/Assignment_solutions/Week_1_assignment_solutions/Week_1_Assignment_Solution.pdf)
+* Week 2 | [Colab Notebook](https://github.com/WiMLDS-Ghana/MathsBootCamp24/blob/main/Assignment_solutions/Week_2_assignment_solutions/Week_2_assignment_solutions.ipynb) | [PDF](https://github.com/WiMLDS-Ghana/MathsBootCamp24/blob/main/Assignment_solutions/Week_2_assignment_solutions/Week_2_assignment_solutions.pdf)
+* Week 3 | [Colab Notebook](https://github.com/WiMLDS-Ghana/MathsBootCamp24/blob/main/Assignment_solutions/Week_3_assignment_solutions/Assignment_week3_Solution.ipynb) | [PDF](https://github.com/WiMLDS-Ghana/MathsBootCamp24/blob/main/Assignment_solutions/Week_3_assignment_solutions/Week_3_Assignment_Solution.pdf)
+
 
 
 # Capstone Project
